@@ -2,6 +2,8 @@
 
 > Projeto desenvolvido como parte da disciplina de **Projeto Prático em Sistemas Interativos** na UNINOVE.
 
+![Vilões Icônicos em Pixel Art](https://github.com/user-attachments/assets/bf00c8a1-77de-4830-bd0c-f5997190916e)
+
 ## 📖 Sobre o Jogo
 "Vilões da Noite" é um jogo 2D de ação e terror onde o jogador controla **Zoey**, uma jovem presa em um pesadelo, enfrentando vilões icônicos de filmes de terror. Cada fase representa um subconsciente de medo da protagonista.
 
